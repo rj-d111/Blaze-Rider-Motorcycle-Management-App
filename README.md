@@ -11,9 +11,6 @@ The app integrates **Google Maps** for navigation and offers a **community-drive
 3. [Tech Stack](#-tech-stack)
 4. [User Roles](#-user-roles)
 5. [App Navigation Flow](#-app-navigation-flow)
-6. [Screenshots](#-screenshots)
-7. [Future Improvements](#-future-improvements)
-8. [Developer](#-developer)
 
 ---
 
