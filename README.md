@@ -30,6 +30,8 @@ Blaze Rider helps riders:
 
 ## 🚀 Features
 
+![Screenshot_2025-11-03-11-01-30-89_6913fe7be745fdc815ee4ec6a594a735](https://github.com/user-attachments/assets/0c9c364b-aec0-45f8-a538-8d8fb3617aab)
+
 ### 🗺️ 1. Home Page – Search Location & Weather Notification
 - Riders can **search for destinations** using Google Maps integration.  
 - Displays **estimated distance and travel time** for two-wheelers.  
@@ -42,6 +44,7 @@ Blaze Rider helps riders:
 - Real-time notification system  
 
 ---
+![Screenshot_2025-11-03-11-01-39-48_6913fe7be745fdc815ee4ec6a594a735](https://github.com/user-attachments/assets/5cf67be4-5627-4e8f-9619-e8237967bc98)
 
 ### 🤝 2. Shared Rides Page
 - When users tap **“Share Ride”**, this page shows all **available shared rides**.  
@@ -57,6 +60,8 @@ Blaze Rider helps riders:
 - Real-time ride updates  
 
 ---
+![Screenshot_2025-11-03-10-59-32-93_6913fe7be745fdc815ee4ec6a594a735](https://github.com/user-attachments/assets/e0a11ac5-7330-4eda-98c9-12871c269c4f)
+
 
 ### 📢 3. Announcements Page
 - Managed by **admins** to post important updates or upcoming events.  
@@ -69,6 +74,7 @@ Blaze Rider helps riders:
 - Event notifications  
 
 ---
+![Screenshot_2025-11-03-10-59-37-81_6913fe7be745fdc815ee4ec6a594a735](https://github.com/user-attachments/assets/954ea4e0-b4bd-4af4-b7ef-69f23199f851)
 
 ### 🏍️ 4. News Feed Page
 - A community feed where riders can **share posts, thoughts, and experiences**.  
@@ -80,6 +86,7 @@ Blaze Rider helps riders:
 - Rider community interaction  
 
 ---
+![Screenshot_2025-11-03-10-59-40-98_6913fe7be745fdc815ee4ec6a594a735](https://github.com/user-attachments/assets/8c8ec00f-cb46-462f-93e4-0410a4878eb7)
 
 ### 🔔 5. Notifications Page
 - Displays all **weather-related notifications** for the rider’s saved or active locations.  
@@ -95,6 +102,7 @@ Blaze Rider helps riders:
 - “Mark all as read” feature  
 
 ---
+![Screenshot_2025-11-03-10-59-49-37_6913fe7be745fdc815ee4ec6a594a735](https://github.com/user-attachments/assets/5d957613-fadc-4d29-ab3d-8c3adcffb1d5)
 
 ### ⚙️ 6. More Page (Profile & Settings)
 - Riders can manage their account with options to:
@@ -141,20 +149,3 @@ Blaze Rider helps riders:
 | **Notifications** | Bottom navigation | View weather alerts and location data |
 | **More** | Bottom navigation | Manage profile, change password, logout |
 
----
-
-## 📸 Screenshots
-
-1. 🗺️ Home Page – Search & Weather Notifications  
-2. 🤝 Shared Rides Page  
-3. 📢 Announcements Page  
-4. 🏍️ News Feed Page  
-5. 🔔 Notifications Page  
-6. ⚙️ More Page (Profile & Settings)
-
-*(Attach your screenshots in the `/screenshots` folder and embed them here using Markdown images)*
-
-Example:
-```markdown
-![Home Page](screenshots/home.jpg)
-![Shared Rides](screenshots/shared_rides.jpg)
