@@ -119,9 +119,9 @@ Blaze Rider helps riders:
 
 | Component | Technology |
 |------------|-------------|
-| **Frontend** | Flutter / React Native |
-| **Backend** | Firebase / Node.js / Express |
-| **Database** | Firestore / MongoDB |
+| **Frontend** | Kotlin / Java |
+| **Backend** | Firebase / Node.js  |
+| **Database** | Firestore |
 | **APIs** | Google Maps API, OpenWeather API |
 
 ---
